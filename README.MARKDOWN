@@ -3,7 +3,7 @@
 ### 小小标题
 this is a **bold** test sample.  #双星号是粗体
 this is a __bold__ test sample   #底斜杠是粗体
-this is a [hyperlink](https://wiki.python.org/moin/BeginnersGuide)
+this is a [hyperlink](More.md)
 >This is some quotation
 >Beginner's Guide to Python
 New to programming? Python is free and easy to learn if you know where to start! This guide will help you to get started quickly.
